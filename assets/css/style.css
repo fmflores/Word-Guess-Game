@@ -38,3 +38,7 @@ h1 {
     opacity: 0.5;
     height: 70vh;
 }
+
+#current-word {
+    font-family: 'Times New Roman', serif;
+}
