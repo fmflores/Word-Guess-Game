@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: 'Monoton', sans-serif;
+    background-image: url("../images/sky-space-dark-galaxy-2150.jpg");
+    background-size: cover;
+}
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+    color: black;
+    background-color: white;
+    border: double 5px black;
+    letter-spacing: 3px;
+    word-spacing: 15px;
+}
+
+#test-div {
+    background-color: white;
+    margin-left: auto;
+    margin-right: 0;
+    border-right: solid 2px black;
+    opacity: 0.5;
+    height: 70vh;
+}
+
+
+
+#test-div-2 {
+    background-color: white;
+    margin-left: 0;
+    margin-right: auto;
+    opacity: 0.5;
+    height: 70vh;
+}
